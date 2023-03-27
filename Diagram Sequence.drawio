@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T12:05:52.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DFf93kS_PqHWg2N1d7wo" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T12:06:35.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nXRQYNN63KFVfX8DD-Iw" version="21.1.1" type="github">
   <diagram name="Страница 1" id="Cx0LHVYK1TykdZhs4_NA">
     <mxGraphModel dx="819" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -133,10 +133,10 @@
         <mxCell id="Wvso3upgK6MAxTXSpco6-79" value="[Успешно и&amp;nbsp;верификация &lt;br style=&quot;font-size: 10px;&quot;&gt;показала ошибки]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Wvso3upgK6MAxTXSpco6-78">
           <mxGeometry x="30" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-83" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-83" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78" target="Wvso3upgK6MAxTXSpco6-78">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint y="70" as="sourcePoint" />
-            <mxPoint x="300" y="70" as="targetPoint" />
+            <mxPoint x="260" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wvso3upgK6MAxTXSpco6-87" value="return ошибка" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78">
@@ -147,7 +147,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wvso3upgK6MAxTXSpco6-88" value="[Недостаточно место и &lt;br&gt;финализация успешна]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Wvso3upgK6MAxTXSpco6-78">
-          <mxGeometry x="-10" y="70" width="130" height="40" as="geometry" />
+          <mxGeometry x="10" y="70" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Wvso3upgK6MAxTXSpco6-90" value="Запись на диск" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.837;exitY=-0.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78" source="Wvso3upgK6MAxTXSpco6-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="79.97" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="78" />
+              <mxPoint x="210" y="110" />
+            </Array>
+            <mxPoint x="185" y="109.97" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Wvso3upgK6MAxTXSpco6-89" value="Финализация диска" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
