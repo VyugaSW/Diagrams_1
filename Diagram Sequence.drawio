@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T12:06:35.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nXRQYNN63KFVfX8DD-Iw" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T12:07:06.307Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4sQEf6kJS2Anusw6PYMq" version="21.1.1" type="github">
   <diagram name="Страница 1" id="Cx0LHVYK1TykdZhs4_NA">
-    <mxGraphModel dx="819" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,6 +157,13 @@
               <mxPoint x="210" y="110" />
             </Array>
             <mxPoint x="185" y="109.97" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Wvso3upgK6MAxTXSpco6-91" value="return успешно" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78">
+          <mxGeometry x="-0.2084" relative="1" as="geometry">
+            <mxPoint x="165" y="130.43000000000004" as="sourcePoint" />
+            <mxPoint x="-100" y="130.1" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Wvso3upgK6MAxTXSpco6-89" value="Финализация диска" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
