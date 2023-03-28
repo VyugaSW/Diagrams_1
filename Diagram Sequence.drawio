@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T12:10:16.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8i64yseUubtVwO1_wVhF" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T15:46:57.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="NWofRoZ390pgnZf30i5T" version="21.1.1" type="github">
   <diagram name="Страница 1" id="Cx0LHVYK1TykdZhs4_NA">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="950" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Wvso3upgK6MAxTXSpco6-32" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wvso3upgK6MAxTXSpco6-2">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-32" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Wvso3upgK6MAxTXSpco6-2" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="340" y="525" as="sourcePoint" />
             <mxPoint x="340" y="1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-16" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-16" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="335" y="545" width="10" height="565" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-30" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=40;height=20;" vertex="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-30" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=40;height=20;" parent="1" vertex="1">
           <mxGeometry x="480" y="630" width="260" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-38" value="[Ошибок нет]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Wvso3upgK6MAxTXSpco6-30">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-38" value="[Ошибок нет]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="Wvso3upgK6MAxTXSpco6-30" vertex="1">
           <mxGeometry x="40" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-50" value="Запись на диск" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-30">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-50" value="Запись на диск" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="Wvso3upgK6MAxTXSpco6-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="140" y="10.029999999999973" as="sourcePoint" />
             <Array as="points">
@@ -28,51 +28,51 @@
             <mxPoint x="145" y="40.02999999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-52" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=1.003;entryY=0.257;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.257;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-30">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-52" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=1.003;entryY=0.257;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.257;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Wvso3upgK6MAxTXSpco6-30" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-1" y="129.99999999999994" as="sourcePoint" />
             <mxPoint x="260" y="129.99999999999994" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-60" value="[Недостаточно места]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Wvso3upgK6MAxTXSpco6-30">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-60" value="[Недостаточно места]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="Wvso3upgK6MAxTXSpco6-30" vertex="1">
           <mxGeometry y="70" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-31" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-30">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-31" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;" parent="Wvso3upgK6MAxTXSpco6-30" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint y="70" as="sourcePoint" />
             <mxPoint x="260" y="71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-64" value="return недостаточно места" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-30">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-64" value="return недостаточно места" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="Wvso3upgK6MAxTXSpco6-30" edge="1">
           <mxGeometry x="0.3962" relative="1" as="geometry">
             <mxPoint x="135" y="120.19000000000005" as="sourcePoint" />
             <mxPoint x="-130" y="120" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-65" value="[Диск повреждён]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Wvso3upgK6MAxTXSpco6-30">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-65" value="[Диск повреждён]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="Wvso3upgK6MAxTXSpco6-30" vertex="1">
           <mxGeometry x="10" y="130" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-66" value="return диск повреждён" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-30">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-66" value="return диск повреждён" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="Wvso3upgK6MAxTXSpco6-30" edge="1">
           <mxGeometry x="0.3209" relative="1" as="geometry">
             <mxPoint x="135" y="180.19000000000005" as="sourcePoint" />
             <mxPoint x="-130" y="180" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-2" value="Диск" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-2" value="Диск" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="495" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-3" value="Дисковод" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-3" value="Дисковод" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="590" y="490" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-10" value="Человек" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-10" value="Человек" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="460" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-15" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-15" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="160" y="550" width="10" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-28" value="Обработка диска" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-28" value="Обработка диска" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="625" y="590" as="sourcePoint" />
             <Array as="points">
@@ -81,75 +81,63 @@
             <mxPoint x="630" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-37" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wvso3upgK6MAxTXSpco6-18">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-37" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Wvso3upgK6MAxTXSpco6-18" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="620" y="520" as="sourcePoint" />
             <mxPoint x="620" y="1140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-41" value="&lt;br&gt;Взять диск" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.036;entryY=1.038;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Wvso3upgK6MAxTXSpco6-16">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="170" y="560.19" as="sourcePoint" />
-            <mxPoint x="320" y="562" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-42" value="Поместить диск в дисковод" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.052;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Wvso3upgK6MAxTXSpco6-18">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="345" y="570.19" as="sourcePoint" />
-            <mxPoint x="610" y="570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-51" value="return диск" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-51" value="return диск" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="1090" as="sourcePoint" />
             <mxPoint x="170" y="1090.19" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-59" value="return успешно" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-59" value="return успешно" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry x="0.3204" relative="1" as="geometry">
             <mxPoint x="615" y="690" as="sourcePoint" />
             <mxPoint x="350" y="690" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-62" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Wvso3upgK6MAxTXSpco6-3" target="Wvso3upgK6MAxTXSpco6-18">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-62" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Wvso3upgK6MAxTXSpco6-3" target="Wvso3upgK6MAxTXSpco6-18" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="620" y="520" as="sourcePoint" />
             <mxPoint x="620" y="1040.5714285714287" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-18" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="615" y="545" width="10" height="565" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-77" value="Верификация диска" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.052;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-77" value="Верификация диска" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.052;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="344" y="880.19" as="sourcePoint" />
             <mxPoint x="615" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-78" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=40;height=20;" vertex="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-78" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=40;height=20;" parent="1" vertex="1">
           <mxGeometry x="450" y="940" width="300" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-79" value="[Успешно и&amp;nbsp;верификация &lt;br style=&quot;font-size: 10px;&quot;&gt;показала ошибки]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Wvso3upgK6MAxTXSpco6-78">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-79" value="[Успешно и&amp;nbsp;верификация &lt;br style=&quot;font-size: 10px;&quot;&gt;показала ошибки]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="Wvso3upgK6MAxTXSpco6-78" vertex="1">
           <mxGeometry x="30" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-83" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78" target="Wvso3upgK6MAxTXSpco6-78">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-83" value="" style="endArrow=none;startArrow=none;endFill=0;startFill=0;endSize=8;html=1;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;dashPattern=10 10;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Wvso3upgK6MAxTXSpco6-78" target="Wvso3upgK6MAxTXSpco6-78" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint y="70" as="sourcePoint" />
             <mxPoint x="260" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-87" value="return ошибка" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-87" value="return ошибка" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="Wvso3upgK6MAxTXSpco6-78" edge="1">
           <mxGeometry x="-0.2084" relative="1" as="geometry">
             <mxPoint x="165" y="50.33000000000004" as="sourcePoint" />
             <mxPoint x="-100" y="50" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-88" value="[Недостаточно место и &lt;br&gt;финализация успешна]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="Wvso3upgK6MAxTXSpco6-78">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-88" value="[Недостаточно место и &lt;br&gt;финализация успешна]" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" parent="Wvso3upgK6MAxTXSpco6-78" vertex="1">
           <mxGeometry x="10" y="70" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-90" value="Запись на диск" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.837;exitY=-0.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78" source="Wvso3upgK6MAxTXSpco6-18">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-90" value="Запись на диск" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=0.837;exitY=-0.057;exitDx=0;exitDy=0;exitPerimeter=0;" parent="Wvso3upgK6MAxTXSpco6-78" source="Wvso3upgK6MAxTXSpco6-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="180" y="79.97" as="sourcePoint" />
             <Array as="points">
@@ -159,14 +147,14 @@
             <mxPoint x="180" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-91" value="return успешно" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="Wvso3upgK6MAxTXSpco6-78">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-91" value="return успешно" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="Wvso3upgK6MAxTXSpco6-78" edge="1">
           <mxGeometry x="-0.2084" relative="1" as="geometry">
             <mxPoint x="165" y="130.43000000000004" as="sourcePoint" />
             <mxPoint x="-100" y="130.1" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wvso3upgK6MAxTXSpco6-89" value="Финализация диска" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="Wvso3upgK6MAxTXSpco6-89" value="Финализация диска" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="625" y="900" as="sourcePoint" />
             <Array as="points">
@@ -174,6 +162,24 @@
             </Array>
             <mxPoint x="630" y="930" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="bS1wqZgpiBJq8xOLXd-b-2" value="Взять диск" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=0.044;entryY=0.948;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Wvso3upgK6MAxTXSpco6-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="570" as="sourcePoint" />
+            <mxPoint x="330" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS1wqZgpiBJq8xOLXd-b-3" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="bS1wqZgpiBJq8xOLXd-b-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bS1wqZgpiBJq8xOLXd-b-4" value="Положить диск в дисковод" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=0.069;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Wvso3upgK6MAxTXSpco6-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="584" as="sourcePoint" />
+            <mxPoint x="511" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bS1wqZgpiBJq8xOLXd-b-5" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="bS1wqZgpiBJq8xOLXd-b-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
