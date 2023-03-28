@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T15:47:02.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="UplqjkPL-jHb6_kSGYGd" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T15:47:12.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="jnebd51xC1aB6EekhUq3" version="21.1.1" type="github">
   <diagram name="Страница 1" id="Cx0LHVYK1TykdZhs4_NA">
     <mxGraphModel dx="950" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -172,7 +172,7 @@
         <mxCell id="bS1wqZgpiBJq8xOLXd-b-3" value="" style="resizable=0;html=1;align=center;verticalAlign=top;labelBackgroundColor=none;" connectable="0" vertex="1" parent="bS1wqZgpiBJq8xOLXd-b-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bS1wqZgpiBJq8xOLXd-b-4" value="Положить диск в дисковод" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=0.069;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Wvso3upgK6MAxTXSpco6-18">
+        <mxCell id="bS1wqZgpiBJq8xOLXd-b-4" value="Положить диск в дисковод" style="endArrow=open;html=1;rounded=0;align=center;verticalAlign=bottom;endFill=0;labelBackgroundColor=none;entryX=0.069;entryY=1.086;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Wvso3upgK6MAxTXSpco6-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="345" y="584" as="sourcePoint" />
             <mxPoint x="610" y="584" as="targetPoint" />
